@@ -1,7 +1,10 @@
 package com.devsuperior.services;
 
-import entities.Employee;
 
+import com.devsuperior.entities.Employee;
+import org.springframework.stereotype.Service;
+
+@Service
 public class SalaryService  {
 
 

@@ -1,5 +1,8 @@
 package com.devsuperior.entities;
 
+
+
+
 public class Employee {
     private String name;
     private Double grossSalary;
