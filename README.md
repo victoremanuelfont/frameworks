@@ -3,7 +3,7 @@ Continuação da discussão presente no repositório: https://github.com/victore
 
 
 # Sobre o projeto: 
-Resolução de um problema utilizando injeção de dependência em framewors
+Resolução de um problema utilizando injeção de dependência em frameworks
 
 ## Problema discutido
 ![Questao](https://github.com/victoremanuelfont/injecao-de-dependencia-exemplo/blob/main/imagens/problema-discutido.png) 
